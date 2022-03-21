@@ -8,11 +8,11 @@ A passionate Full Stack Web Developer | Software Engineer from Los Angeles, Cali
 
 📫 How to reach me ryghoward@gmail.com
 
-📄 Learn about my experiences https://docs.google.com/document/d/1DLcjAU8fFmUXrt-9VPzF80zesnrZdHWHtt5dL-MApcU/edit
+📄 Learn about my experiences [Resume](https://docs.google.com/document/d/1DLcjAU8fFmUXrt-9VPzF80zesnrZdHWHtt5dL-MApcU/edit)
 
 Connect with me:
-[link](https://www.instagram.com/ryanghoward/)
-[link](https://www.linkedin.com/in/ryanxhoward/)
+[LinkedIn](https://www.linkedin.com/in/ryanxhoward/)
+[Instagram](https://www.instagram.com/ryanghoward/)
 
 Languages and Tools:
 CSS express git HTML JavaScript Node.js postgresql postman React SQL SQLite
