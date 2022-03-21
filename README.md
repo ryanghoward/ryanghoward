@@ -1,4 +1,4 @@
-### Well Shucks, Howdy Partner 🤠 My name is Ryan Howard 
+### Howdy Partner 🤠 My name is Ryan Howard 
 
 A passionate Full Stack Web Developer | Software Engineer from Los Angeles, California
 
