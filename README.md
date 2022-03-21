@@ -1,6 +1,6 @@
 ### Howdy partner 🤠 My name is Ryan Howard 
 
-A passionate Full Stack Web Developer | Software Engineer from Los Angeles, California
+Full Stack Web Developer | UX/UI Designer from Los Angeles, California
 
 🔭 I’m currently working on https://github.com/FftyShadesofCode/nenyoswebsite
 
