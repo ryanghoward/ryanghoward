@@ -12,6 +12,7 @@ A passionate Full Stack Web Developer | Software Engineer from Los Angeles, Cali
 
 Connect with me:
 https://www.instagram.com/ryanghoward/
+https://www.linkedin.com/in/ryanxhoward/
 
 Languages and Tools:
 css3 express git html5 javascript nodejs postgresql postman react sqlite
