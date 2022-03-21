@@ -15,5 +15,5 @@ https://www.instagram.com/ryanghoward/
 https://www.linkedin.com/in/ryanxhoward/
 
 Languages and Tools:
-css3 express git html5 javascript nodejs postgresql postman react sqlite
+CSS express git HTML JavaScript Node.js postgresql postman React SQL SQLite
 
