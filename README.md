@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanghoward" alt="ryanghoward" /></a> </p>
 
-- 🔭 I’m currently working on [Nenyo](https://github.com/ryanghoward/nenyoswebsite)
+- 🔭 I’m currently working on [Nenyo's Website](https://github.com/ryanghoward/nenyoswebsite)
 
 - 🌱 I’m currently learning **JavaScript, React, TypeScript**
 
