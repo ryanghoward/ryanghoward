@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ryan!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Fullstack Developer with an emphasis on frontend from Los Angeles</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanghoward" alt="ryanghoward" /></a> </p>
 
