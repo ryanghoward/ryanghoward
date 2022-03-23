@@ -1,4 +1,4 @@
-<h1 align="center">Henlo Fren 👋 Welcome to my GitHub</h1>
+<h1 align="center">Howdy 🤠 Welcome to my GitHub</h1>
 <h3 align="center">A FullStack Web Developer with an emphasis on Frontend from Los Angeles, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanghoward&label=Profile%20views&color=0e75b6&style=flat" alt="ryanghoward" /> </p>
