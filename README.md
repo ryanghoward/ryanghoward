@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanghoward" alt="ryanghoward" /></a> </p>
 
-- 🔭 I’m currently working on [North Eastern New York Orchid Society's Website](https://github.com/ryanghoward/nenyoswebsite)
+- 🔭 I’m currently working on [North Eastern New York Orchid Society (NENYOS) Website](https://github.com/ryanghoward/nenyoswebsite)
 
 - 🌱 I’m currently learning **JavaScript, React, TypeScript, Flutter**
 
