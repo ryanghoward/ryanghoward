@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 🤠 I'm Ryan!</h1>
-<h3 align="center">A Fullstack developer with and emphasis on frontend from Los Angeles, CA</h3>
+<h3 align="center">A dedicated Fullstack developer from Los Angeles, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanghoward&label=Profile%20views&color=0e75b6&style=flat" alt="ryanghoward" /> </p>
 
