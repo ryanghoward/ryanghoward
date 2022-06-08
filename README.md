@@ -7,7 +7,7 @@
 
 - I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
 
-- I’m currently learning **JavaScript, React, Tailwind, TypeScript**
+- I’m currently learning **JavaScript, React, Tailwind, Next.js**
 
 - I’m looking to collaborate on **Anything!**
 
