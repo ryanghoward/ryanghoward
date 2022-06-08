@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanghoward" alt="ryanghoward" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
+- I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
 
-- 🌱 I’m currently learning **JavaScript, React, Tailwind, TypeScript**
+- I’m currently learning **JavaScript, React, Tailwind, TypeScript**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- I’m looking to collaborate on **Anything!**
 
-- 📫 How to reach me **ryghoward@gmail.com**
+- How to reach me **ryghoward@gmail.com**
 
-- 📄 Learn about my experiences [https://docs.google.com/document/d/1DLcjAU8fFmUXrt-9VPzF80zesnrZdHWHtt5dL-MApcU/edit](https://docs.google.com/document/d/1DLcjAU8fFmUXrt-9VPzF80zesnrZdHWHtt5dL-MApcU/edit)
+- Learn about my experiences by reaching out! I'm happy to share my resume with you and speak further about what I can do. 
 
-- ⚡ Fun fact **There are more ways to arrange a deck of cards than there are atoms on Earth**
+- Fun fact **There are more ways to arrange a deck of cards than there are atoms on Earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
