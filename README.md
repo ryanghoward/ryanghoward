@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanghoward&show_icons=true&locale=en" alt="ryanghoward" /></p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b765725f-bece-47b9-b2dd-de1f7556fbc7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b765725f-bece-47b9-b2dd-de1f7556fbc7" data-share-badge-host="https://www.credly.com"><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
