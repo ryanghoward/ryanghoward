@@ -1,8 +1,6 @@
 <h1 align="center">Howdy 🤠 I'm Ryan!</h1>
 <h3 align="center">A dedicated Fullstack Web Developer from Los Angeles, CA</h3>
 
-<div align-"center>![full-stack-web-development-technical-interviewing 1 (1)](https://user-images.githubusercontent.com/72590723/173151310-0bd17834-59c9-44f2-aaef-14e24360713a.png)</div>
-
 ## About Me
 - I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
 
@@ -29,3 +27,5 @@
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ryanghoward&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+![full-stack-web-development-technical-interviewing 1 (1)](https://user-images.githubusercontent.com/72590723/173151310-0bd17834-59c9-44f2-aaef-14e24360713a.png)
