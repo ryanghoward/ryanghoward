@@ -27,11 +27,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ryanghoward&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ryanghoward&icon=5&color=9)](https://visitcount.itsvg.in)
-
-
