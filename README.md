@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 🤠 I'm Ryan!</h1>
+<h1 align="center">Bonjour, Je suis Ryan!</h1>
 <h3 align="center">A Full Stack Web Developer from Los Angeles, CA</h3>
 
 ## About Me
