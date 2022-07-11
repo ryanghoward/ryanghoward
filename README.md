@@ -4,7 +4,8 @@
 ## About Me
 - I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
 
-- I’m currently learning **JavaScript, React, TailwindCSS, Next.js and French 🇫🇷**
+- I’m currently learning **JavaScript, React, TailwindCSS, Next.js and French ![image](https://user-images.githubusercontent.com/72590723/178364543-d6f02985-718a-478c-a804-1e435e85fac1.png)
+**
 
 - I’m looking to collaborate on **Anything!**
 
