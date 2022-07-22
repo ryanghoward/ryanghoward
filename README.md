@@ -2,17 +2,17 @@
 <h3 align="center">A Full Stack Web Developer from Los Angeles, CA</h3>
 
 ## About Me
-- I’m currently working on [My Portfolio](https://github.com/ryanghoward/my-portfolio)
+- I’m currently working on - [My Portfolio](https://github.com/ryanghoward/my-portfolio)
 
-- I’m currently learning **JavaScript, React, TailwindCSS, Next.js and French 🇫🇷**
+- I’m currently learning - **JavaScript, React, TailwindCSS, Next.js and French 🇫🇷**
 
-- I’m looking to collaborate on **Anything!**
+- I’m looking to collaborate on - **Anything!**
 
-- How to reach me **ryghoward@gmail.com**
+- How to reach me - **ryghoward@gmail.com**
 
 - Learn about my experiences here - [Resume](https://ryanghoward.com/static/media/Ryan%20G.%20Howard%20Resume%202022.37ce576bd611b3874b91.pdf) 
 
-- Fun fact **There are more ways to arrange a deck of cards than there are atoms on Earth. There are somewhere in the range of 8x10⁶⁷ ways to sort a deck of cards. That’s an 8 followed by 67 zeros. Meaning, whenever you shuffle a deck of cards, you are very likely the first person to ever arrange a deck of cards in that particular order**
+- Fun fact - **There are more ways to arrange a deck of cards than there are atoms on Earth. There are somewhere in the range of 8x10⁶⁷ ways to sort a deck of cards. That’s an 8 followed by 67 zeros. Meaning, whenever you shuffle a deck of cards, you are very likely the first person to ever arrange a deck of cards in that particular order**
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ryanghoward/) 
