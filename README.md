@@ -10,7 +10,7 @@
 
 - How to reach me **ryghoward@gmail.com**
 
-- Learn about my experiences by reaching out! I'm happy to share my resume with you and speak further about what I can do. 
+- Learn about my experiences by here: [Resume](Ryan G. Howard Resume 2022.pdf). 
 
 - Fun fact **There are more ways to arrange a deck of cards than there are atoms on Earth. There are somewhere in the range of 8x10⁶⁷ ways to sort a deck of cards. That’s an 8 followed by 67 zeros. Meaning, whenever you shuffle a deck of cards, you are very likely the first person to ever arrange a deck of cards in that particular order**
 
