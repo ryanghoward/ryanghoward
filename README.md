@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I am Ryan</h1>
-<h3 align="center">A Full Stack Web Developer from Los Angeles, CA</h3>
+<h1 align="center">Ryan G. Howard</h1>
+<h3 align="center">Full Stack Web Developer from Los Angeles, CA</h3>
 
 ## About Me
 - I’m currently working on - [My Portfolio](https://github.com/ryanghoward/my-portfolio)
