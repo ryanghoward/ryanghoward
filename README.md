@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer from Los Angeles, CA</h3>
 
 ## About Me
-- I’m currently working on - [My Portfolio](https://github.com/ryanghoward/my-portfolio)
+- I’m currently working on - [My Portfolio](https://ryanghoward.com) - [Repo](https://github.com/ryanghoward/my-portfolio)
 
 - I’m currently learning - **JavaScript, React, TailwindCSS, Next.js and French 🇫🇷**
 
