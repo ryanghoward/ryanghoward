@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer from Los Angeles, CA</h3>
 
 ## About Me
-- I’m currently working on: [OrchidFrenzy](https://github.com/FftyShadesofCode/OrchidFrenzy)
+- I’m currently working on: [OrchidFriendZ](https://github.com/BroCodeATeam/OrchidFriendZ)
 
 - I’m currently learning: **JavaScript, React, TailwindCSS, Vue** and **French 🇫🇷**
 
