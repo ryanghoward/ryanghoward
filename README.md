@@ -1,5 +1,5 @@
 <h1 align="center">Ryan G. Howard</h1>
-<h3 align="center">Full Stack Web Developer from Los Angeles, CA</h3>
+<h3 align="center">Web Developer from Los Angeles, CA</h3>
 
 ## About Me
 - I’m currently working on: [OrchidFriendZ](https://github.com/BroCodeATeam/OrchidFriendZ)
