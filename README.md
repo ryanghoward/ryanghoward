@@ -4,7 +4,7 @@
 ## About Me
 - I’m currently working on: [OrchidFriendZ](https://github.com/BroCodeATeam/OrchidFriendZ)
 
-- I’m currently learning: **JavaScript, React, TailwindCSS, Vue** and **French 🇫🇷**
+- I’m currently learning: **JavaScript, React, TailwindCSS, Angular** and **French 🇫🇷**
 
 - How to reach me: **ryghoward@gmail.com**
 
