@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Ryan G. Howard</h1>
 <h3 align="center">Web Developer from Los Angeles, CA</h3>
 
