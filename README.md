@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/72590723/201177757-aedeb06b-7709-43ab-9fc6-b6000f907fff.png)
+![Header](https://user-images.githubusercontent.com/72590723/201178178-28a583d5-0e1e-4a2e-8d61-9190e9d8e9b7.png)
 
 <!-- <h1 align="center">Ryan G. Howard</h1> -->
 <!-- <h3 align="center">Web Developer from Los Angeles, CA</h3> -->
@@ -30,3 +30,4 @@
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ryanghoward&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 ![full-stack-web-development-technical-interviewing 1 (1)](https://user-images.githubusercontent.com/72590723/173151310-0bd17834-59c9-44f2-aaef-14e24360713a.png)
+
