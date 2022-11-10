@@ -1,5 +1,5 @@
 <!-- ![Header](https://user-images.githubusercontent.com/72590723/201178339-c1f1829a-8b92-4992-a296-e1c7d1556ae6.png) -->
-![Header](https://user-images.githubusercontent.com/72590723/201205969-b1bfae7b-2173-4406-a532-03e1808a3ecb.png)
+![Header](https://user-images.githubusercontent.com/72590723/201206173-2b9b0072-c8d3-420b-997c-30c7b13ce56d.png)
 
 <!-- <h1 align="center">Ryan G. Howard</h1> -->
 <!-- <h3 align="center">Web Developer from Los Angeles, CA</h3> -->
