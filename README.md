@@ -1,4 +1,3 @@
-![Header](https://user-images.githubusercontent.com/72590723/201788182-84c93c72-8c0d-4a7a-9ef3-682d33743257.png)
 ![Header](https://user-images.githubusercontent.com/72590723/201788416-5d15d9d6-be24-475c-b165-c5e5326ccec8.png)
 
 <!-- <h1 align="center">Ryan G. Howard</h1> -->
