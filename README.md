@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/72590723/201178339-c1f1829a-8b92-4992-a296-e1c7d1556ae6.png)
+![Header](https://user-images.githubusercontent.com/72590723/201788182-84c93c72-8c0d-4a7a-9ef3-682d33743257.png)
 
 <!-- <h1 align="center">Ryan G. Howard</h1> -->
 <!-- <h3 align="center">Web Developer from Los Angeles, CA</h3> -->
