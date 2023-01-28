@@ -4,7 +4,7 @@
 <!-- <h3 align="center">Web Developer from Los Angeles, CA</h3> -->
 
 ## About Me
-- I’m currently working on: [OrchidFriendZ](https://github.com/BroCodeATeam/OrchidFriendZ)
+<!-- - I’m currently working on: [OrchidFriendZ](https://github.com/BroCodeATeam/OrchidFriendZ) -->
 
 - I’m currently learning: **JavaScript, React, TailwindCSS, Angular** and **French 🇫🇷**
 
